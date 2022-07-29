@@ -1,0 +1,28 @@
+<html>
+<body style="background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg");">
+<h1 style="text-align: centre;">Hello we are hiring</h1>
+<form style="text-align: centre;">
+<label name="First name"></label>
+<input type="name" placeholder="Enter your first name"></input>
+<br/>
+<label name="Middle Name"></label>
+<input type="name" placeholder="Enter your middle name"></input>
+<br/>
+<label name="Last Name"></label> 
+<input type="name" placeholder="Enter your last name"></input>
+<br/>
+<label name="Date of joining"></label> 
+<input type="date" placeholder="Date"></input>
+<br/>
+<label name="Position"></label> 
+<input type="name" placeholder="Enter your position"></input>
+<br/>
+<label name="Salary Expectation"></label> 
+<input type="number" placeholder="Enter your salary expectations"></input>
+<br/>
+<label name="Submit"></label> 
+<input type="submit"></input>
+<br/>
+</form>
+</body>
+</html>
